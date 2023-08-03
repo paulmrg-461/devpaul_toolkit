@@ -1,10 +1,10 @@
 name: devpaul_toolkit
-description: A new Flutter package project.
+description: DevPaul Custom shared widgets package.
 version: 0.0.1
-homepage: null
+homepage: https://devpaul.co
 
 environment:
-  sdk: '>=3.1.0-163.1.beta <4.0.0'
+  sdk: '>=2.19.0-374.1.beta <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
